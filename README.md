@@ -1,5 +1,5 @@
 - 👋 @manuelfmerino
-- 👀 Interested in molecular modeling, image processing and AI
+- 👀 Interested in molecular modeling, image processing, genomics and AI
 - 🌱 Currently learning about DNA modeling and super-resolution microscopy
 - 📫 manuel.fernandez@crg.eu
 
