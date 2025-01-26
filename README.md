@@ -1,6 +1,6 @@
 - 👋 @manuelfmerino
-- 👀 Interested in molecular modeling, image processing, genomics and AI
-- 🌱 Currently learning about DNA modeling and super-resolution microscopy
+- 👀 Modeling chromatin using genomics and super-resolution imaging
+- 🌱 Software development, data analysis and visualization
 - 📫 manuel.fernandez@crg.eu
 
 <!---
